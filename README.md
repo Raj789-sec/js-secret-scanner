@@ -17,14 +17,13 @@ git clone https://github.com/YOUR-USERNAME/js-secret-scanner.git
 cd js-secret-scanner
 pip install -r requirements.txt
 ```
-```
 Usage
+```
 # Run the script
 python3 js_secret_scanner.py <filename.js> console|html|json
 ```
-```
 📌 Demo Input
-
+```
 Create a file called demo.js:
 
 // Demo JavaScript file with secrets
