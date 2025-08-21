@@ -19,6 +19,8 @@ pip install -r requirements.txt
 ```
 ## Usage
 ```
+# Download the .js file
+wget http://demosite.com/main.js
 # Run the script
 python3 js_secret_scanner.py <filename.js> console|html|json
 ```
