@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 Usage
 # Run the script
-python3 js_secret_scanner.py <filename.js>
+python3 js_secret_scanner.py <filename.js> console|html|json
 ```
 ```
 📌 Demo Input
