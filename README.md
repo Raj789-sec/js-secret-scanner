@@ -16,10 +16,13 @@ A Python tool to extract **URLs, API keys, AWS/GCP secrets, S3 buckets, JWTs, an
 git clone https://github.com/YOUR-USERNAME/js-secret-scanner.git
 cd js-secret-scanner
 pip install -r requirements.txt
-
+```
+```
+Usage
 # Run the script
 python3 js_secret_scanner.py <filename.js>
-
+```
+```
 📌 Demo Input
 
 Create a file called demo.js:
@@ -95,6 +98,6 @@ Sensitive Endpoints
 │  2  │ /graphql/query          │
 │  3  │ /api/user/config        │
 └─────┴─────────────────────────┘
-
+```
 ✅ Results saved to results.json (if json mode selected)
 ✅ HTML Report saved to results.html (if html mode selected)
