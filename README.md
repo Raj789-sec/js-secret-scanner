@@ -13,7 +13,7 @@ A Python tool to extract **URLs, API keys, AWS/GCP secrets, S3 buckets, JWTs, an
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/YOUR-USERNAME/js-secret-scanner.git
+git clone https://github.com/Raj789-sec/js-secret-scanner
 cd js-secret-scanner
 pip install -r requirements.txt
 ```
